@@ -20,7 +20,7 @@ const colors = {
 
 const theme = extendTheme({ colors });
 
-const container = document.getElementById('root')!;
+const container = document.getElementById('root')!; //eslint-disable-line
 const root = createRoot(container);
 
 root.render(
