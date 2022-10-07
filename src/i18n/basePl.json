@@ -1,0 +1,93 @@
+{
+    "title": "Sekcja Akademicka „Jedność” Zarządu Głównego PZKO",
+    "brno": {
+        "title": "Brno",
+        "desc": "Miasto jest ważnym ośrodkiem kulturalnym (teatry, filharmonia, międzynarodowe festiwale muzyczne), naukowym (6 uczelni, w tym Uniwersytet Masaryka i Uniwersytet Techniczny) i turystycznym.",
+        "saj": {
+            "first": {
+                "title": "Zycie w Krakowie",
+                "desc": "Staramy dostosować się do potrzeb każdego członka naszego SAJu, dlatego termin spotkań ustalony zostaje na początku roku szkolnego w taki sposób, aby wszystkim odpowiadał, a jeśli to się nie uda, terminy spotkań są ruchliwe. Spotkania odbywają się raz w tygodniu (czasami nawet dwa razy), w czasie sesji trochę się uspokajamy, bo później móc ponownie z nową dawką energii spotkać się w naszym zaolziańskim gronie. "
+            },
+            "second": {
+                "title": "Halloween",
+                "desc": "Corocznie impreza halloweenowa połączona jest z tradycyjną „Bażantówką“, której towarzyszą tematyczne kostiumy, dekoracje oraz gry i zabawy. Imprezę rozpoczynamy przez wszystkich uwielbianym powitaniem „bażantów“, późnym wieczorem przesuwamy się do centrum Krakowa, gdzie z kolei wita ich energiczne i pełne studentów miasto"
+            },
+            "third": {
+                "title": "Wigilijka",
+                "desc": "Kolędy, grzane, wino, pieczenie ciasteczek, długie rozmowy – to kwintesencja krakowskiej wigilijki, która wnosi podmuch Świąt i spokoju do przedsesyjnego Krakowa. "
+            }
+        }
+    },
+    "praga": {
+        "title": "Praga",
+        "desc": "Praga jako największe miasto w Czechach ma wiele do zaoferowania. Zdecydowaliśmy się na studia tutaj nie tylko ze względu na uczelnie, ale braliśmy pod uwagę również jedyną w swoim rodzaju atmosferę miasta, łatwy dojazd z Zaolzia, czy też potencjonalne oferty pracy. Praga jest świetną alternatywą dla osób, które chcą mieć uczucie wielkiego miasta, ale zarówno nie chcą wyjeżdżać za daleko.",
+        "saj": {
+            "first": {
+                "title": "Zycie w Pradze",
+                "desc": "Praski SAJ to mniejsza, zwarta i lubiąca imprezować grupa studentów. Spotkania inicjujemy tak, by każdy znalazł coś dla siebie. Lubimy grać w siatkówkę, czy badmintona, chodzić do kina, wspólnie grillować, spędzać wieczory przy grach planszowych, czy też iść na laser game. Większość spotkań zazwyczaj kończy się w pubie, czy klubie. Tak lubimy ze sobą przebywać, że czasami trudno się rozstać (:D). Podczas semestru staramy się spotykać co dwa tygodnie. "
+            },
+            "second": {
+                "title": "Bażantówka",
+                "desc": "Na początku każdego roku akademickiego spotykamy się w największym gronie i witamy naszych bażantów, czyli pierwszaków, którzy właśnie rozpoczęli swoją przygodę z Pragą. W przeciągu wieczora mają czas zapoznać się z naszym kolektywem, spełnić kilka zadań i pod koniec pasowani są na SAJ-owiczów."
+            },
+            "third": {
+                "title": "Kotylionówka",
+                "desc": "Do obowiązków praskiego SAJ-u związanych z Balem Akademickim należy przygotowanie kotylionów, które tworzymy na imprezie zwanej kotylionówka. W okresie przedświątecznym spotykamy się przy kolędach i grzanym winie i wspólnie rozpoczynamy manufakturę setek kotylionów. Zazwyczaj zajmuje nam to dwa wieczory i litry grzanego wina."
+            }
+        }
+    },
+    "olomouc": {
+        "title": "Olomuniec",
+        "desc": "Ołomuniec jest jednym z większych miast akademickich w Republice Czeskiej. Ze względu na swoje tradycje duchowe, kulturowe i rzemieślnicze jest po Pradze drugim co do wielkości rezerwatem pamiątkowym. Jest siedzibą Uniwersytetu Palackiego, archidiecezji, Filharmonii Morawskiej, interesujących muzeów i teatrów. Do relaksu oferuje rozległe parki, duży ogród zoologiczny, areał przyrodniczy Litovelského Pomoraví ze ścieżkami rowerowymi i kąpieliskiem. Dysponuje mnóstwem rodzajów atrakcji, zabaw i rozrywek. ",
+        "saj": {
+            "first": {
+                "title": "Winko / Burczak / Grzaniec",
+                "desc": "Co mamy wspólnego z winem? To, że staramy się organizować nasze spotkania tak różnorodne, jak rozliczne są rodzaje wina. A konkternie parę z nich… Zazwyczaj rok akademicki rozpoczynamy spotkaniem przy burczaku. Zimą mróz nie jest tak srogi, kiedy świąteczną atmosferę wzmocni grzaniec. "
+            },
+            "second": {
+                "title": "Amolety",
+                "desc": "Tradycyjną imprezą dla SAJ-u Ołomuniec są „amolety“ (inaczej też naleśniki). Wspólne jedzenie posiłków od zawsze łączyło ludzi, a my, żeby sobie w dodatku trochę osłodzić życie i nabrać sił przed sesją zimową, wybraliśmy naleśniki."
+            },
+            "third": {
+                "title": "Siatkówka",
+                "desc": "Nowością w naszych spotkaniach jest siatkówka. Sport każdemu znany i na ogół lubiany. Na boisku pod siatką widujemy się raz na dwa tygodnie. Przecież od dawna wiadomo, że ruch to zdrowie."
+            }
+        }
+    },
+    "krakow": {
+        "title": "Krakow",
+        "desc": "Kraków, miasto królów polskich i krówek, choć może się wydawać niezbyt połączony z „typowym“ SAJowskim życiem z powodu swego zagranicznego usytuowania, nie charakteryzuje się ani nudną paczką ani niskim poziomem zapału i energii.",
+        "saj": {
+            "first": {
+                "title": "Zycie w Krakowie",
+                "desc": "Staramy dostosować się do potrzeb każdego członka naszego SAJu, dlatego termin spotkań ustalony zostaje na początku roku szkolnego w taki sposób, aby wszystkim odpowiadał, a jeśli to się nie uda, terminy spotkań są ruchliwe. Spotkania odbywają się raz w tygodniu (czasami nawet dwa razy), w czasie sesji trochę się uspokajamy, bo później móc ponownie z nową dawką energii spotkać się w naszym zaolziańskim gronie. "
+            },
+            "second": {
+                "title": "Halloween",
+                "desc": "Corocznie impreza halloweenowa połączona jest z tradycyjną „Bażantówką“, której towarzyszą tematyczne kostiumy, dekoracje oraz gry i zabawy. Imprezę rozpoczynamy przez wszystkich uwielbianym powitaniem „bażantów“, późnym wieczorem przesuwamy się do centrum Krakowa, gdzie z kolei wita ich energiczne i pełne studentów miasto"
+            },
+            "third": {
+                "title": "Wigilijka",
+                "desc": "Kolędy, grzane, wino, pieczenie ciasteczek, długie rozmowy – to kwintesencja krakowskiej wigilijki, która wnosi podmuch Świąt i spokoju do przedsesyjnego Krakowa. "
+            }
+        }
+    },
+    "ostrawa": {
+        "title": "Ostrawa",
+        "desc": "Miasto było znane przede wszystkim przemysłem ciężkim, teraz ale proponuje okazje dla wszystkich kierunków zwłaszcza dzięki dwom uniwersytetom, mianowicie VŠB-TUO i OSU. Ostrawa także oferuje mnóstwo miejsc pracy w ramach studia, a także dla absolwentów. Dużym plusem są niższe koszty na życie w porównaniu z innymi metropolami czeskimi lub polskimi.",
+        "saj": {
+            "first": {
+                "title": "Życie w Ostrawie",
+                "desc": "Życie w Ostrawie można dla studenta rozdzielić do kilku segmentów: Mieszkanie i wyżywienie, Transport i Sport, zabawa i życie studenckie. Każdy student może skorzystać z oferty mieszkania na jednym z kilku akademików. Jest także opcja mieszkań prywatnych (starsi SAJowicze często szukają nowych spółlokatorów), które są w Ostrawie o nieco tańsze, niż w innych dużych miastach. W sprawie wyżywienia studenci korzystają z stołówek szkolnych, restauracji lub gotują sobie sami. Transport po Ostrawie jest bardzo łatwy i wygodny dzięki szerokiej sieci transportu publicznego lub np. Bikesharingu. Za sportem uczniowie często chodzą do kampusu szkolnego VŠB-TUO, gdzie mogą korzystać z siłowni i przeróżnych boisk. W Ostrawie także znajduje się mnóstwo ośrodków sportowych z zniżkami studenckimi. Zabawy i życia studenckiego tutaj na prawdę nie brakuje. Można wyruszyć na regularnie organizowane spotkania SAJu, imprezy kulturalne, sportowe lub spotkania pod patronatem Czerwonej Żaby. "
+            },
+            "second": {
+                "title": "Bażantówka",
+                "desc": "Pierwsza impreza roku szkolnego, na której zapoznajemy się z nowymi SAJowiczami. Nowicjusze zostają pasowani na Bażantów i walczą o prestiżowy tytuł 'Złoty Bażant' w różnych współzawodnictwach. "
+            },
+            "third": {
+                "title": "Derby",
+                "desc": "Jodno z największych wydarzeń studenckich w Republice Czeskiej. Chodzi o mecz hokejowy pomiędzy reprezentacjami uniwerstytetów VŠB-TUO i OSU. Studenci ubrani w kolory swych alma mater kibicują i utwarzają niepowtarzalną atmosferę. SAJowicze często wyruszają na Derby w mocnej grupce wzeprzeć sportowców."
+            }
+        }
+    }
+}
