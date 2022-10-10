@@ -12,8 +12,10 @@ import './index.scss';
 const colors = {
     primary: {
         100: '#b53214',
-        80: '#eb4033',
-        50: '#eb4034',
+        80: '#b53214CC',
+        50: '#b5321480',
+        20: '#b5321433',
+
     },
     background: '#F2F2F2'
 };

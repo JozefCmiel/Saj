@@ -26,6 +26,7 @@ const Home = () => {
                 justifyContent="center"
                 marginBottom="4rem"
                 marginTop="4rem"
+                zIndex={2}
             >
                 {SAJ_LOCATIONS.map(item => (
                     <Card

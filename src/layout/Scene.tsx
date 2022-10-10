@@ -36,6 +36,7 @@ const Scene = ({ children }: SceneProps) => {
         <AnimatedPage>
             <Box
                 flex="1"
+                position={'relative'}
             >
                 <Center>
                     <Flex
@@ -45,6 +46,7 @@ const Scene = ({ children }: SceneProps) => {
                         {children}
                     </Flex>
                 </Center>
+
             </Box>
         </AnimatedPage>
     );
