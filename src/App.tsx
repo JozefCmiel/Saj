@@ -13,6 +13,7 @@ import City from 'Scene/City';
 import { AnimatePresence } from 'framer-motion';
 import { Box } from '@chakra-ui/react';
 
+
 import Navbar from './layout/Navbar';
 
 
@@ -26,7 +27,10 @@ const AppBody = () => {
                 location={location}
             >
                 <Route
-                    element={<Scene><Home /></Scene>}
+                    element={
+                        <Scene>
+                            <Home />
+                        </Scene>}
                     path="/"
                 />
                 {SAJ_LOCATIONS.map(item => (

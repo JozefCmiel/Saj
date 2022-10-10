@@ -1,0 +1,12 @@
+.menuDropdown {
+    display: none;
+}
+
+@media (max-width: 800px) {
+    .menuLinks     { display: none; }
+    .menuDropdown { display: inline-block; }
+}
+
+@media (max-width: 1000px) {
+    .textNextToImage--switched  { flex-direction: column-reverse; }
+}

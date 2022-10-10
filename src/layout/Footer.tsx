@@ -8,7 +8,10 @@ import { INSTAGRAM_LINK, PZKO_LINK, SMP_LINK } from 'app/constants';
 
 const Footer = () => {
     return (
-        <Flex justifyContent="space-evenly">
+        <Flex
+            justifyContent="space-evenly"
+            zIndex={5}
+        >
             <Box flex="1">
                 <Box
                     bg="primary.100"

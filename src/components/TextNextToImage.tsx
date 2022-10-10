@@ -1,5 +1,5 @@
 import React from 'react';
-import { Flex, Container, Text, Image, Heading } from '@chakra-ui/react';
+import { Flex, Container, Text, Image, Heading, Center } from '@chakra-ui/react';
 
 
 interface TextNextToImageProps {
@@ -12,14 +12,20 @@ interface TextNextToImageProps {
 
 const TextNextToImage = ({ text, city, image, switched, title }: TextNextToImageProps) => {
     return (
-        <Flex mt="1rem">
+        <Flex
+            className={switched ? 'textNextToImage--switched' : ''}
+            mt="1rem"
+            wrap={'wrap'}
+        >
             {switched &&
-             <Image
-                 alt={`${city}firstPhoto`}
-                 height="275px"
-                 src={image}
-                 width="430px"
-             />}
+            <Center margin={'auto'}>
+                <Image
+                    alt={`${city}firstPhoto`}
+                    height="275px"
+                    src={image}
+                    width="430px"
+                />
+            </Center>}
             <Container>
                 <Heading
                     mb="1rem"
@@ -35,12 +41,14 @@ const TextNextToImage = ({ text, city, image, switched, title }: TextNextToImage
                 </Text>
             </Container>
             {!switched &&
-             <Image
-                 alt={`${city}firstPhoto`}
-                 height="275px"
-                 src={image}
-                 width="430px"
-             />}
+            <Center margin={'auto'}>
+                <Image
+                    alt={`${city}firstPhoto`}
+                    height="275px"
+                    src={image}
+                    width="430px"
+                />
+            </Center>}
         </Flex>
     );
 };
