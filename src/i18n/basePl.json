@@ -1,5 +1,8 @@
 {
     "title": "Sekcja Akademicka „Jedność” Zarządu Głównego PZKO",
+    "notFound": {
+        "title": "Strona nieznaleziona"
+    },
     "brno": {
         "title": "Brno",
         "desc": "Miasto jest ważnym ośrodkiem kulturalnym (teatry, filharmonia, międzynarodowe festiwale muzyczne), naukowym (6 uczelni, w tym Uniwersytet Masaryka i Uniwersytet Techniczny) i turystycznym.",
@@ -37,7 +40,7 @@
         }
     },
     "olomouc": {
-        "title": "Olomuniec",
+        "title": "Ołomuniec",
         "desc": "Ołomuniec jest jednym z większych miast akademickich w Republice Czeskiej. Ze względu na swoje tradycje duchowe, kulturowe i rzemieślnicze jest po Pradze drugim co do wielkości rezerwatem pamiątkowym. Jest siedzibą Uniwersytetu Palackiego, archidiecezji, Filharmonii Morawskiej, interesujących muzeów i teatrów. Do relaksu oferuje rozległe parki, duży ogród zoologiczny, areał przyrodniczy Litovelského Pomoraví ze ścieżkami rowerowymi i kąpieliskiem. Dysponuje mnóstwem rodzajów atrakcji, zabaw i rozrywek. ",
         "saj": {
             "first": {

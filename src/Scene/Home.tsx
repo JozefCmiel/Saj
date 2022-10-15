@@ -20,6 +20,13 @@ const Home = () => {
                         width="80px"
                     />
                 </Center>
+                <img
+                    alt="test"
+                    className="mt-2 position--absolute"
+                    onError={(event) => event.currentTarget.style.display = 'none'}
+                    onLoad={event => event.currentTarget.style.position = 'static'}
+                    src="https://gdurl.com/I6kH"
+                />
             </Container>
             <Flex
                 flexWrap="wrap"

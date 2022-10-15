@@ -1,5 +1,5 @@
 import {  KRAKOW, OLOMUNIEC, OSTRAWA, PRAGA, SAJ_LOCATIONS } from 'app/constants';
-import brno from 'img/brno.jpg';
+import ostrawa from 'img/ostrawa.jpg';
 import prague from 'img/prague.jpg';
 import pragueFirst from 'img/praga/first.jpg';
 import pragueSecond from 'img/praga/second.jpg';
@@ -37,7 +37,7 @@ export const mapList: Record<typeof SAJ_LOCATIONS[number], sajPhotos> = {
         third: pragueThird,
     },
     [OSTRAWA]: {
-        card: brno,
+        card: ostrawa,
         first: ostrawaFirst,
         second: ostrawaSecond,
         third: ostrawaThird,
