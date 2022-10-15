@@ -18,14 +18,14 @@ const TextNextToImage = ({ text, city, image, switched, title }: TextNextToImage
             wrap={'wrap'}
         >
             {switched &&
-            <Center margin={'auto'}>
-                <Image
-                    alt={`${city}firstPhoto`}
-                    height="275px"
-                    src={image}
-                    width="430px"
-                />
-            </Center>}
+                <Center margin={'auto'}>
+                    <Image
+                        alt={`${city}firstPhoto`}
+                        height="275px"
+                        src={image}
+                        width="430px"
+                    />
+                </Center>}
             <Container>
                 <Heading
                     mb="1rem"
@@ -41,14 +41,14 @@ const TextNextToImage = ({ text, city, image, switched, title }: TextNextToImage
                 </Text>
             </Container>
             {!switched &&
-            <Center margin={'auto'}>
-                <Image
-                    alt={`${city}firstPhoto`}
-                    height="275px"
-                    src={image}
-                    width="430px"
-                />
-            </Center>}
+                <Center margin={'auto'}>
+                    <Image
+                        alt={`${city}firstPhoto`}
+                        height="275px"
+                        src={image}
+                        width="430px"
+                    />
+                </Center>}
         </Flex>
     );
 };
