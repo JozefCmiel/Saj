@@ -15,6 +15,7 @@ import { Box } from '@chakra-ui/react';
 
 
 import Navbar from './layout/Navbar';
+import NotFound from './Scene/NotFound';
 
 
 const AppBody = () => {
@@ -40,6 +41,10 @@ const AppBody = () => {
                         path={`/${item}`}
                     />
                 ))}
+                <Route
+                    element={<NotFound />}
+                    path={'*'}
+                />
             </Routes>
         </AnimatePresence>
     );

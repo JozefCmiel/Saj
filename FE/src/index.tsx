@@ -2,11 +2,11 @@ import React from 'react';
 import { createRoot } from 'react-dom/client';
 import { Provider } from 'react-redux';
 import { extendTheme, ChakraProvider } from '@chakra-ui/react';
+import { store } from 'app/store';
 
-import { store } from './app/store';
 import App from './App';
-import './i18n';
-import './index.scss';
+import 'i18n';
+import 'index.scss';
 
 
 const colors = {
