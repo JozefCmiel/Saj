@@ -5,10 +5,13 @@ import { Flex, Stack, Box, Menu, MenuButton, IconButton, MenuList, MenuItem } fr
 import { INSTAGRAM_LINK, SAJ_LOCATIONS } from 'app/constants';
 import { Icon } from 'components/generic';
 import { useTranslation } from 'react-i18next';
+import { useAuth0 } from '@auth0/auth0-react';
 
 
 const Navbar = () => {
     const { t } = useTranslation();
+    const { loginWithRedirect, logout } = useAuth0();
+    const { isAuthenticated,  } = useAuth0();
     return (
         <Box
             background="white"
@@ -51,6 +54,10 @@ const Navbar = () => {
                             >
                                 <Icon name="Instagram" />
                             </a>
+                            {isAuthenticated ?
+                                <button onClick={() => logout()}>Log Out</button>  :
+                                <button onClick={() => loginWithRedirect()}>Log In</button>
+                            }
                         </Stack>
                     </Flex>
                 </div>
