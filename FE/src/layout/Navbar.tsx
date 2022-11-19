@@ -49,6 +49,12 @@ const Navbar = () => {
                                     {t(`${item}.title`)}
                                 </Link>
                             ))}
+                            <Link
+
+                                to={'/akademik'}
+                            >
+                                {t('akademik.title')}
+                            </Link>
                             <a
                                 href={INSTAGRAM_LINK}
                             >
@@ -87,6 +93,12 @@ const Navbar = () => {
                                     </MenuItem>
                                 </Link>
                             ))}
+                            <Link
+
+                                to={'/akademik'}
+                            >
+                                {t('akademik.title')}
+                            </Link>
 
                         </MenuList>
                     </Menu>

@@ -3,21 +3,30 @@
     "notFound": {
         "title": "Strona nieznaleziona"
     },
+    "akademik": {
+        "title": "Akademik",
+        "steps": {
+            "first": "Wybrac miejsce",
+            "second": "Zapłacic",
+            "third": "Przyjsc"
+        },
+        "buy": "Zakup bilet"
+    },
     "brno": {
         "title": "Brno",
         "desc": "Miasto jest ważnym ośrodkiem kulturalnym (teatry, filharmonia, międzynarodowe festiwale muzyczne), naukowym (6 uczelni, w tym Uniwersytet Masaryka i Uniwersytet Techniczny) i turystycznym.",
         "saj": {
             "first": {
                 "title": "Życie w Krakowie",
-                "desc": "Staramy dostosować się do potrzeb każdego członka naszego SAJu, dlatego termin spotkań ustalony zostaje na początku roku szkolnego w taki sposób, aby wszystkim odpowiadał, a jeśli to się nie uda, terminy spotkań są ruchliwe. Spotkania odbywają się raz w tygodniu (czasami nawet dwa razy), w czasie sesji trochę się uspokajamy, bo później móc ponownie z nową dawką energii spotkać się w naszym zaolziańskim gronie. "
+                "desc": "Staramy dostosować się do potrzeb każdego członka naszego SAJu, dlatego termin spotkań ustalony zostaje na początku roku szkolnego w taki sposób, aby wszystkim odpowiadał, a jeśli to się nie uda, terminy spotkań są ruchliwe. Spotkania odbywają się raz w tygodniu (czasami nawet dwa razy), w czasie sesji trochę się uspokajamy, bo później móc ponownie z nową dawką energii spotkać się w naszym zaolziańskim gronie. "
             },
             "second": {
                 "title": "Halloween",
-                "desc": "Corocznie impreza halloweenowa połączona jest z tradycyjną „Bażantówką“, której towarzyszą tematyczne kostiumy, dekoracje oraz gry i zabawy. Imprezę rozpoczynamy przez wszystkich uwielbianym powitaniem „bażantów“, późnym wieczorem przesuwamy się do centrum Krakowa, gdzie z kolei wita ich energiczne i pełne studentów miasto"
+                "desc": "Corocznie impreza halloweenowa połączona jest z tradycyjną „Bażantówką“, której towarzyszą tematyczne kostiumy, dekoracje oraz gry i zabawy. Imprezę rozpoczynamy przez wszystkich uwielbianym powitaniem „bażantów“, późnym wieczorem przesuwamy się do centrum Krakowa, gdzie z kolei wita ich energiczne i pełne studentów miasto"
             },
             "third": {
                 "title": "Wigilijka",
-                "desc": "Kolędy, grzane, wino, pieczenie ciasteczek, długie rozmowy – to kwintesencja krakowskiej wigilijki, która wnosi podmuch Świąt i spokoju do przedsesyjnego Krakowa. "
+                "desc": "Kolędy, grzane, wino, pieczenie ciasteczek, długie rozmowy - to kwintesencja krakowskiej wigilijki, która wnosi podmuch Świąt i spokoju do przedsesyjnego Krakowa. "
             }
         }
     },
@@ -41,11 +50,11 @@
     },
     "olomouc": {
         "title": "Ołomuniec",
-        "desc": "Ołomuniec jest jednym z większych miast akademickich w Republice Czeskiej. Ze względu na swoje tradycje duchowe, kulturowe i rzemieślnicze jest po Pradze drugim co do wielkości rezerwatem pamiątkowym. Jest siedzibą Uniwersytetu Palackiego, archidiecezji, Filharmonii Morawskiej, interesujących muzeów i teatrów. Do relaksu oferuje rozległe parki, duży ogród zoologiczny, areał przyrodniczy Litovelského Pomoraví ze ścieżkami rowerowymi i kąpieliskiem. Dysponuje mnóstwem rodzajów atrakcji, zabaw i rozrywek. ",
+        "desc": "Ołomuniec jest jednym z większych miast akademickich w Republice Czeskiej. Ze względu na swoje tradycje duchowe, kulturowe i rzemieślnicze jest po Pradze drugim co do wielkości rezerwatem pamiątkowym. Jest siedzibą Uniwersytetu Palackiego, archidiecezji, Filharmonii Morawskiej, interesujących muzeów i teatrów. Do relaksu oferuje rozległe parki, duży ogród zoologiczny, areał przyrodniczy Litovelského Pomoraví ze ścieżkami rowerowymi i kąpieliskiem. Dysponuje mnóstwem rodzajów atrakcji, zabaw i rozrywek. ",
         "saj": {
             "first": {
                 "title": "Winko / Burczak / Grzaniec",
-                "desc": "Co mamy wspólnego z winem? To, że staramy się organizować nasze spotkania tak różnorodne, jak rozliczne są rodzaje wina. A konkternie parę z nich… Zazwyczaj rok akademicki rozpoczynamy spotkaniem przy burczaku. Zimą mróz nie jest tak srogi, kiedy świąteczną atmosferę wzmocni grzaniec. "
+                "desc": "Co mamy wspólnego z winem? To, że staramy się organizować nasze spotkania tak różnorodne, jak rozliczne są rodzaje wina. A konkternie parę z nich… Zazwyczaj rok akademicki rozpoczynamy spotkaniem przy burczaku. Zimą mróz nie jest tak srogi, kiedy świąteczną atmosferę wzmocni grzaniec. "
             },
             "second": {
                 "title": "Amolety",
@@ -59,7 +68,7 @@
     },
     "krakow": {
         "title": "Krakow",
-        "desc": "Kraków, miasto królów polskich i krówek, choć może się wydawać niezbyt połączony z „typowym“ SAJowskim życiem z powodu swego zagranicznego usytuowania, nie charakteryzuje się ani nudną paczką ani niskim poziomem zapału i energii.",
+        "desc": "Kraków, miasto królów polskich i krówek, choć może się wydawać niezbyt połączony z „typowym“ SAJowskim życiem z powodu swego zagranicznego usytuowania, nie charakteryzuje się ani nudną paczką ani niskim poziomem zapału i energii.",
         "saj": {
             "first": {
                 "title": "Życie w Krakowie",
@@ -67,11 +76,11 @@
             },
             "second": {
                 "title": "Halloween",
-                "desc": "Corocznie impreza halloweenowa połączona jest z tradycyjną „Bażantówką“, której towarzyszą tematyczne kostiumy, dekoracje oraz gry i zabawy. Imprezę rozpoczynamy przez wszystkich uwielbianym powitaniem „bażantów“, późnym wieczorem przesuwamy się do centrum Krakowa, gdzie z kolei wita ich energiczne i pełne studentów miasto"
+                "desc": "Corocznie impreza halloweenowa połączona jest z tradycyjną „Bażantówką“, której towarzyszą tematyczne kostiumy, dekoracje oraz gry i zabawy. Imprezę rozpoczynamy przez wszystkich uwielbianym powitaniem „bażantów“, późnym wieczorem przesuwamy się do centrum Krakowa, gdzie z kolei wita ich energiczne i pełne studentów miasto"
             },
             "third": {
                 "title": "Wigilijka",
-                "desc": "Kolędy, grzane, wino, pieczenie ciasteczek, długie rozmowy – to kwintesencja krakowskiej wigilijki, która wnosi podmuch Świąt i spokoju do przedsesyjnego Krakowa. "
+                "desc": "Kolędy, grzane, wino, pieczenie ciasteczek, długie rozmowy - to kwintesencja krakowskiej wigilijki, która wnosi podmuch Świąt i spokoju do przedsesyjnego Krakowa. "
             }
         }
     },
@@ -89,7 +98,7 @@
             },
             "third": {
                 "title": "Derby",
-                "desc": "Jodno z największych wydarzeń studenckich w Republice Czeskiej. Chodzi o mecz hokejowy pomiędzy reprezentacjami uniwerstytetów VŠB-TUO i OSU. Studenci ubrani w kolory swych alma mater kibicują i utwarzają niepowtarzalną atmosferę. SAJowicze często wyruszają na Derby w mocnej grupce wzeprzeć sportowców."
+                "desc": "Jedna z największych wydarzeń studenckich w Republice Czeskiej. Chodzi o mecz hokejowy pomiędzy reprezentacjami uniwerstytetów VŠB-TUO i OSU. Studenci ubrani w kolory swych alma mater kibicują i utwarzają niepowtarzalną atmosferę. SAJowicze często wyruszają na Derby w mocnej grupce wzeprzeć sportowców."
             }
         }
     }
