@@ -49,20 +49,22 @@ const Navbar = () => {
                                     {t(`${item}.title`)}
                                 </Link>
                             ))}
+                            {/*
                             <Link
 
                                 to={'/akademik'}
                             >
                                 {t('akademik.title')}
                             </Link>
+                            */}
                             <a
                                 href={INSTAGRAM_LINK}
                             >
                                 <Icon name="Instagram" />
                             </a>
                             {isAuthenticated ?
-                                <button onClick={() => logout()}>Log Out</button>  :
-                                <button onClick={() => loginWithRedirect()}>Log In</button>
+                                <button onClick={() => logout()}>Log out</button>  :
+                                <button onClick={() => loginWithRedirect()}>Zaloguj</button>
                             }
                         </Stack>
                     </Flex>
