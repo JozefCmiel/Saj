@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client';
 import { Provider } from 'react-redux';
 import { extendTheme, ChakraProvider } from '@chakra-ui/react';
 import { store } from 'app/store';
+import { Auth0Provider } from '@auth0/auth0-react';
 
 import App from './App';
 import 'i18n';
@@ -27,10 +28,16 @@ const root = createRoot(container);
 
 root.render(
     <React.StrictMode>
-        <Provider store={store}>
-            <ChakraProvider theme={theme}>
-                <App />
-            </ChakraProvider>
-        </Provider>
+        <Auth0Provider
+            clientId="JiLfZv1FXyMMAWaOVwXk4R2gmxXJNiAe"
+            domain="dev-bpgp21kwgcal3gsi.us.auth0.com"
+            redirectUri={window.location.origin}
+        >
+            <Provider store={store}>
+                <ChakraProvider theme={theme}>
+                    <App />
+                </ChakraProvider>
+            </Provider>
+        </Auth0Provider>
     </React.StrictMode>
 );

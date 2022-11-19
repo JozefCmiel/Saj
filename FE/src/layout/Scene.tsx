@@ -17,6 +17,7 @@ const AnimatedPage = ({ children }: AnimatedPageType) => {
     return (
         <motion.div
             animate="animate"
+            className="fullSize"
             exit="exit"
             initial="initial"
             transition={{ duration: 0.5, ease: [ 0.17, 0.67, 0.83, 0.67 ] }}
