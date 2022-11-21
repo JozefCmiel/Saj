@@ -44,11 +44,12 @@ const AppBody = () => {
 
                 <Route
                     element={<Scene><Akademik /></Scene>}
+                    key={'akademik'}
                     path={'/akademik'}
                 />
                 <Route
                     element={<NotFound />}
-                    path={'*'}
+                    path={'/404'}
                 />
             </Routes>
         </AnimatePresence>

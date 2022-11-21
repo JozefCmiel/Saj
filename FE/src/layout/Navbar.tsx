@@ -49,14 +49,14 @@ const Navbar = () => {
                                     {t(`${item}.title`)}
                                 </Link>
                             ))}
-                            {/*
-                            <Link
 
+                            <Link
+                                key="akademik"
                                 to={'/akademik'}
                             >
                                 {t('akademik.title')}
                             </Link>
-                            */}
+
                             <a
                                 href={INSTAGRAM_LINK}
                             >
