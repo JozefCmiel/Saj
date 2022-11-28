@@ -5,11 +5,7 @@
     },
     "akademik": {
         "title": "Akademik",
-        "steps": {
-            "first": "Wybrac miejsce",
-            "second": "Zapłacic",
-            "third": "Przyjsc"
-        },
+        "desc": "Kazdo roczny akademik",
         "buy": "Zakup bilet"
     },
     "brno": {
