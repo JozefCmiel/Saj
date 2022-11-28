@@ -25,7 +25,7 @@ const Home = () => {
                     className="mt-2 position--absolute"
                     onError={(event) => event.currentTarget.style.display = 'none'}
                     onLoad={event => event.currentTarget.style.position = 'static'}
-                    src="https://gdurl.com/I6kH"
+                    src="https://gdurl.com/2MTj"
                 />
             </Container>
             <Flex
