@@ -18,5 +18,25 @@ Projekt dla Sekcja Akademicka „Jedność” Zarządu Głównego PZKO
 9. Click `Create pull request`
 10. Copy link and send it to someone for double check or click `Merge pull request` (this will start deployment and build of a new version)
 
+### How to change main picture
+
+1. Go to SAJ google disk.
+2. Find picture with name `main.jpg`
+
+
+#### EDIT
+
+3. Right click
+4. `Manage versions` ( `Spravovat verze` )
+5. Click `Upload new version` and upload it.
+
+#### HIDE / SHOW
+
+3. Right click
+4. Share
+5. Select `Everyone who has link` or `Restricted`, depends on usage
+
+Warning! If you are registered as SAJ user in chrome you can still see the picture on site even if you set `Restricted`.
+Please, use  incognito mode if needed.
 
 
