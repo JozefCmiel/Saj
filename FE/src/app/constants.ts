@@ -8,7 +8,7 @@ export const OSTRAWA = 'ostrawa';
 export const KRAKOW = 'krakow';
 
 
-export const SAJ_LOCATIONS = [ PRAGA, OLOMUNIEC, OSTRAWA, KRAKOW ] as const;
+export const SAJ_LOCATIONS = [ PRAGA, OLOMUNIEC, OSTRAWA, KRAKOW, BRNO ] as const;
 
 
 export const INSTAGRAM_LINK = 'https://www.instagram.com/sekcja_akademicka_jednosc/';

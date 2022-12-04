@@ -5,7 +5,7 @@
 * Copyright (C) 2000-2022 by Trusted Network Solutions, a.s. *
 * All rights reserved.                                       *
 \************************************************************/
-import { SAJ_LOCATIONS } from 'app/constants';
+import { BRNO, SAJ_LOCATIONS } from 'app/constants';
 import React from 'react';
 import { Center, Container, Divider, Flex, Heading, Text } from '@chakra-ui/react';
 import TextNextToImage from 'components/TextNextToImage';
@@ -43,28 +43,31 @@ const City = ({ city }: CityProps) => {
                 </Flex>
 
             </Container>
-            <TextNextToImage
-                city={city}
-                image={mapList[city].first}
-                text={t(`${city}.saj.first.desc`)}
-                title={t(`${city}.saj.first.title`)}
-            />
-            <TextNextToImage
-                city={city}
-                image={mapList[city].second}
-                switched={true}
-                text={t(`${city}.saj.second.desc`)}
-                title={t(`${city}.saj.second.title`)}
+            {city === BRNO ? null :
+                <>
+                    <TextNextToImage
+                        city={city}
+                        image={mapList[city].first}
+                        text={t(`${city}.saj.first.desc`)}
+                        title={t(`${city}.saj.first.title`)}
+                    />
+                    <TextNextToImage
+                        city={city}
+                        image={mapList[city].second}
+                        switched={true}
+                        text={t(`${city}.saj.second.desc`)}
+                        title={t(`${city}.saj.second.title`)}
 
-            />
+                    />
 
-            <TextNextToImage
-                city={city}
-                image={mapList[city].third}
-                text={t(`${city}.saj.third.desc`)}
-                title={t(`${city}.saj.third.title`)}
+                    <TextNextToImage
+                        city={city}
+                        image={mapList[city].third}
+                        text={t(`${city}.saj.third.desc`)}
+                        title={t(`${city}.saj.third.title`)}
 
-            />
+                    />
+                </>}
         </>
     );
 };
