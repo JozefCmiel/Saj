@@ -43,7 +43,6 @@ const Akademik = () => {
             <Center
                 marginTop={'2rem'}
             >
-
                 <div className="tt-widget">
                     <div className="tt-widget-fallback">
                         <p>
