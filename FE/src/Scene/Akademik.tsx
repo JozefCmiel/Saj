@@ -47,7 +47,7 @@ const Akademik = () => {
                     <div className="tt-widget-fallback">
                         <p>
                             <a
-                                href="https://www.tickettailor.com/all-tickets/akademik/?ref=website_widget"
+                                href="https://www.tickettailor.com/events/akademik/810789"
                                 rel="noreferrer"
                                 target="_blank"
                             >
@@ -64,17 +64,6 @@ const Akademik = () => {
                             </a>
                         </p>
                     </div>
-                    <script
-                        data-inline-bg-fill="false"
-                        data-inline-inherit-ref-from-url-param=""
-                        data-inline-minimal="true"
-                        data-inline-ref="website_widget"
-                        data-inline-show-logo="false"
-                        data-type="inline"
-                        data-url="https://www.tickettailor.com/all-tickets/akademik/"
-                        src="https://cdn.tickettailor.com/js/widgets/min/widget.js"
-                    >
-                    </script>
                 </div>
             </Center>
 
