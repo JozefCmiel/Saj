@@ -10,19 +10,19 @@
     },
     "brno": {
         "title": "Brno",
-        "desc": "Texty rozpracowane",
+        "desc": "Brno to największe miasto Moraw i drugie największe miasto w Czechac. Jest to miasto studentskie, znajdują się tutaj jedne z największych czeskich uczelni - MUNI, VUT, MENDELU. Szeroka oferta studiów, mnóstwo możliwości dla absolwentów i atmosfera miasta – to tylko te największe plusy naszego wyboru Brna. Nasz SAJ cieszy się liczną reprezentacją jak studentów, tak absolwentów, którzy zdecydowali się tutaj zostać.",
         "saj": {
             "first": {
-                "title": "Rozpracowane",
-                "desc": "Rozpracowane"
+                "title": "Życie w Brnie",
+                "desc": "Brno to też ośrodek kulturalny. Znajduje się tutaj mnóstwo teatrów i kin. Ciekawe miejsca to na pewno twierdza i zamek Špilberk, albo planetarium, które znajduje się na Kraví hoře. Tutaj właśnie spotykamy się w letnim semestrze u grilla. W zimowym semestrze robimy spotkanie na targach świątecznych. Spotkanie to jest traktowane bardzo poważnie, degustujemy grzaniec w każdym stoisku i decydujemy, czy tutaj jest cena adekwatna smaku. Na spotkanie jeździmy šalinami (NIE tramwajami) a wracamy rozjezdami, które każdą całą godzinę w nocy ruszają we wszystkie strony metropolii. "
             },
             "second": {
-                "title": "Rozpracowane",
-                "desc": "Rozpracowane"
+                "title": "Bażantówka",
+                "desc": "Tradycyjne przywitanie bażantów w Brnie jest zazwyczaj jedną z największych imprez w semestrze zimowym. W programie są gry dla bażantow i świetna zabawa przy muzyce aż do rana. "
             },
             "third": {
-                "title": "Rozpracowane",
-                "desc": "Rozpracowane"
+                "title": "Macocha",
+                "desc": "Każdoroczna jesienna wycieczka piesza na Macochę z Blanska. Po drodze idziemy szlakiem we śladach generacji SAJowiczów. Żeby wszystkim poszło sprawniej, to każdy ma swoją butelkę wina."
             }
         }
     },
