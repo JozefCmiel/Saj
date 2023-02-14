@@ -5,6 +5,9 @@ import brno from 'img/brno.jpg';
 import pragueFirst from 'img/praga/first.jpg';
 import pragueSecond from 'img/praga/second.jpg';
 import pragueThird from 'img/praga/third.jpg';
+import brnoFirst from 'img/brno/first.jpg';
+import brnoSecond from 'img/brno/second.jpg';
+import brnoThird from 'img/brno/third.jpg';
 import olomoucFirst from 'img/olomouc/first.jpg';
 import olomoucSecond from 'img/olomouc/second.jpeg';
 import olomoucThird from 'img/olomouc/third.jpg';
@@ -23,9 +26,9 @@ type sajPhotos = Record<'card' | 'first' | 'second' | 'third', string>
 export const mapList: Record<typeof SAJ_LOCATIONS[number], sajPhotos> = {
     [BRNO]: {
         card: brno,
-        first: pragueFirst,
-        second: pragueSecond,
-        third: pragueThird,
+        first: brnoFirst,
+        second: brnoSecond,
+        third: brnoThird,
     },
     [PRAGA]: {
         card: prague,

@@ -1,10 +1,3 @@
-/************************************************************\
-* POZOR: Tento soubor obsahuje CITLIVE INFORMACE             *
-* CAUTION: This file contains SENSITIVE INFORMATION          *
-* Kernun                                                     *
-* Copyright (C) 2000-2022 by Trusted Network Solutions, a.s. *
-* All rights reserved.                                       *
-\************************************************************/
 import React from 'react';
 import { Center, Text, Flex, Divider, Heading, Button, Container } from '@chakra-ui/react';
 import { useTranslation } from 'react-i18next';
