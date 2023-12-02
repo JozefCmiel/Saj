@@ -40,7 +40,7 @@ const Akademik = () => {
                     <div className="tt-widget-fallback">
                         <p>
                             <a
-                                href="https://www.tickettailor.com/events/akademik/810789"
+                                href="https://buytickets.at/akademik/1076197"
                                 rel="noreferrer"
                                 target="_blank"
                             >
