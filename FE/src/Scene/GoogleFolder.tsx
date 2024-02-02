@@ -40,7 +40,7 @@ const GoogleFolder = () => {
                 justifyContent="center"
                 marginBottom="4rem"
                 marginTop="4rem"
-                width="100rem"
+                width="80rem"
                 zIndex={2}
             >
                 <GoogleDocumentViewer />
