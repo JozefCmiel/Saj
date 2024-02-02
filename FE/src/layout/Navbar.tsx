@@ -52,12 +52,7 @@ const Navbar = () => {
                             >
                                 {t('work.title')}
                             </Link>
-                            <Link
-                                key="akademik"
-                                to={'/akademik'}
-                            >
-                                {t('akademik.title')}
-                            </Link>
+
 
                             <a
                                 href={INSTAGRAM_LINK}
@@ -94,11 +89,12 @@ const Navbar = () => {
                                 </Link>
                             ))}
                             <Link
-
-                                to={'/akademik'}
+                                key="prace"
+                                to={'/prace'}
                             >
-                                {t('akademik.title')}
+                                {t('work.title')}
                             </Link>
+
                         </MenuList>
                     </Menu>
                 </div>
