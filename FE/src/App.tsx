@@ -13,6 +13,7 @@ import City from 'Scene/City';
 import { AnimatePresence } from 'framer-motion';
 import { Box } from '@chakra-ui/react';
 import Akademik from 'Scene/Akademik';
+import GoogleFolder from 'Scene/GoogleFolder';
 
 import Navbar from './layout/Navbar';
 import NotFound from './Scene/NotFound';
@@ -46,6 +47,12 @@ const AppBody = () => {
                     element={<Scene><Akademik /></Scene>}
                     key={'akademik'}
                     path={'/akademik'}
+                />
+
+                <Route
+                    element={<Scene><GoogleFolder /></Scene>}
+                    key={'googleFolder'}
+                    path={'/prace'}
                 />
                 <Route
                     element={<NotFound />}

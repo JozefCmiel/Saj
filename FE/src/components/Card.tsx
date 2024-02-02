@@ -35,6 +35,7 @@ const Card = ({ city, imageSrc }: CardProps) => {
             onClick={onClickCard}
             overflow="hidden"
         >
+
             <Image
                 alt={city + 'img'}
                 src={imageSrc}

@@ -47,6 +47,12 @@ const Navbar = () => {
                                 </Link>
                             ))}
                             <Link
+                                key="prace"
+                                to={'/prace'}
+                            >
+                                {t('work.title')}
+                            </Link>
+                            <Link
                                 key="akademik"
                                 to={'/akademik'}
                             >
